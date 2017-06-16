@@ -1,5 +1,5 @@
 KADEEM
-Letts
+LETTS
 DATABASE/ETL PROFESSIONAL
 
 W H Y  M E?
@@ -45,17 +45,22 @@ Provide On call services for the data warehousing team. Some duties include ensu
 
 Provided ad hoc reports to teams that identified users that may have been affected by an outage emergency assistance to other teams to identify users that were possibly affected by the company's activities.
 
+S K I L L S
 Oracle SQL & PL/SQL
 SQL*Loader
 Linux shell script
 SAP BODS
-SKILLS
 MS SQL Server
 MySQL
 Python
 Html/CSS
 JavaScript
+PHP
 Java
+
+C E R T I F I C A T I O N
+Oracle Database SQL Certified Expert
+Oracle Database 11g Administrator Certified Associate
 
 E D U C A T I O N
 
@@ -76,9 +81,4 @@ C O N T A C T  I N F O R M A T I O N
 EMAIL Kadeem.Letts@gmail.com
 MOBILE 718.795.7310
 LINKED IN linkedin.com/in/KadeemLetts
-
-C E R T I F I C A T I O N
-Oracle Database SQL Certified Expert
-Oracle Database 11g Administrator Certified Associate
 GITHUB https://github.com/codekid
-PHP
