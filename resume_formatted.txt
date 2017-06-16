@@ -1,0 +1,84 @@
+KADEEM
+Letts
+DATABASE/ETL PROFESSIONAL
+
+W H Y  M E?
+Worked on various aspects of the data warehousing environment such as requirements gathering, testing, implementation, support.
+
+Expertise utilizing various ETL Tools to pull data from a number data sources.
+
+Proven background in managing, scheduling, and migrating legacy ETL processes, importing new data, developing ETL scripts using various tools
+
+Excellent analytical, technical, and investigative skills that are useful for identifying trends, investigating data quality issues, and coming up with solutions to address same.
+
+Proficient knowledge of data warehousing and mining concepts.
+
+Extensive experience working in a team.
+
+Hard working and a great communicator at managing customer expectations and working with data source teams
+
+
+W O R K  E X P E R I E N C E
+DIGICEL, Data Specialist
+Kingston, Jamaica
+JANUARY 2013 –
+JULY 2016
+
+Part of a team that managed a 60-terabyte data warehouse which houses Digicel Jamaica data as well as 16 other markets. Data is pushed into the warehouse on a 24/7 basis with an hourly loading rate above 200 million records
+
+Optimized a large portion of critical legacy code which reduced the ETL process. This allowed others to be moved to an earlier time which reduced the likelihood of reports being late and holding up business users from doing their job.
+
+Allowed the business to dive deeper into their customers’ browsing habits (figuring out exactly what devices were being used and what websites were being visited). Knowing this the business devised plans tailored towards the most visited websites.
+
+Provided stability to reporting elements that allowed sales reps commissions to be calculated and brought to accounts on time, nearly eliminating the likelihood of late payment.
+Ensure the day's data is loaded, processed, and made available for reporting in a timely manner. If data isn't not available at SLA (Service Level Agreement) then communication to dependent users is provided outlining issues that affected ability to meet SLA and timeline for resolution.
+
+Design and develop data analyzers using the appropriate tools (SAP BODS, Oracle packages, Oracle Procedures, Oracle PL/SQL, Shell Scripts) that automatically load and/or process data.
+
+Collect Requirements desired of new data feeds, create structures, load test data, validate data, make available to test user group, alert report creators of new structures and make tweaks where deemed necessary.
+
+Create documentation for old as well as new data feeds and conduct in-team workshop to spread knowledge and equip other team members with the ability pick up
+
+Maintain good relations with teams that provide data, alerting them of any anomalies in the data provided and work with them to rectify the issue as soon as possible.
+
+Provide On call services for the data warehousing team. Some duties include ensuring all data processing is completed and made available to business users, address failures as they arise and logging issues.
+
+Provided ad hoc reports to teams that identified users that may have been affected by an outage emergency assistance to other teams to identify users that were possibly affected by the company's activities.
+
+Oracle SQL & PL/SQL
+SQL*Loader
+Linux shell script
+SAP BODS
+SKILLS
+MS SQL Server
+MySQL
+Python
+Html/CSS
+JavaScript
+Java
+
+E D U C A T I O N
+
+Kingston College, High School Diploma
+Kingston, Jamaica
+2001 -
+2008
+Attained seven subjects in the CSEC exams with grade 1 in Information Technology and Technical Drawing
+Attained eight CAPE units
+
+University of Technology, Information Technology, B.Sc.
+St. Andrew, Jamaica
+2008 - 2012
+BSc. in Computing with a major in Information Technology and a minor in Enterprise Systems.
+
+
+C O N T A C T  I N F O R M A T I O N
+EMAIL Kadeem.Letts@gmail.com
+MOBILE 718.795.7310
+LINKED IN linkedin.com/in/KadeemLetts
+
+C E R T I F I C A T I O N
+Oracle Database SQL Certified Expert
+Oracle Database 11g Administrator Certified Associate
+GITHUB https://github.com/codekid
+PHP
